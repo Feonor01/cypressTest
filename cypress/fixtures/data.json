@@ -1,0 +1,18 @@
+{
+
+    "loginRegister": {
+        "email" : "marko_stojanovski21@ymail.com",
+        "dataPassword" : "12345678",
+        "confirmPass" : "mare124",
+        "emailWithout@" : "markogmail.com",
+        "firstName" : "marko",
+        "lastName" : "stojanovski",
+        "firstNameWithOneLetter" : "aa"
+    },
+    "createGallery" : {
+        "title" : "T",
+        "description" : "Marko description",
+        "url" : "https://cdn.pixabay.com/photo/2015/09/09/16/05/forest-931706_960_720.jpg"
+    }
+    
+}
